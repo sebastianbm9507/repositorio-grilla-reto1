@@ -1,8 +1,29 @@
 body {
-  padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: #A4A4A4;
 }
 
 a {
   color: #00B7FF;
+}
+.ngHeaderContainer {
+    background-color: #0DC9DE;
+}
+.ngRow.ng-scope.even.selected {
+    background-color: rgba(11, 20, 35, 0.21);
+}
+.ngFooterPanel.ng-scope {
+    background: rgba(4, 4, 3, 0.81);;
+    color: yellow
+}
+.gridStyle.ng-scope.ngGrid.ng1440101066903 {
+    font-family: monospace;
+}
+
+h1:hover {
+    -webkit-transform: scale(1,1.5);
+    transition : 0.4s;
+    color: chartreuse;
+
+
 }

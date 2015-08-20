@@ -1,8 +1,74 @@
-[{
-       
-        "nombre": "TeamGenesis",
-        "pais": "Peru",
+[
+    {
+
+        "Team1": "Rca ",
+        "pais1": "Costa Rica",
         "tiempo": "EST",
-        "project": "AngularJS"
+        "vs": "vs.",
+        "Team2": "the-Exss",
+        "pais": "China"
+},
+    {
+
+        "Team1": "Balkan Bears",
+        "pais1": "Bolivia",
+        "tiempo": "EST",
+        "vs": "vs.",
+        "Team2": "GamersLeague",
+        "pais": "EE.UU"
+},
+    {
+
+        "Team1": "Dota-eros",
+        "pais1": "Ecuador",
+        "tiempo": "EST",
+        "vs": "vs.",
+        "Team2": "PxxpQ",
+        "pais": "Republica D"
+},
+    {
+
+        "Team1": "KMF",
+        "pais1": "Mexico",
+        "tiempo": "EST",
+        "vs": "vs.",
+        "Team2": "Ante--Strike",
+        "pais": "Peru"
+},
+    {
+
+        "Team1": "DBYS",
+        "pais1": "Australia",
+        "tiempo": "EST",
+        "vs": "vs.",
+        "Team2": "Erssx-1",
+        "pais": "canada"
+},
+    {
+
+        "Team1": "LL-K ",
+        "pais1": "Argentina",
+        "tiempo": "EST",
+        "vs": "vs.",
+        "Team2": "Killers",
+        "pais": "Brasil"
+},
+    {
+
+        "Team1": "KaosTeAm",
+        "pais1": "Colombia",
+        "tiempo": "EST",
+        "vs": "vs.",
+        "Team2": "C-iiS",
+        "pais": "Venezuela"
+},
+    {
+
+        "Team1": "KillTeAm",
+        "pais1": "Peru",
+        "tiempo": "EST",
+        "vs": "vs.",
+        "Team2": "OOpp7",
+        "pais": "Venezuela"
 }
 ]
